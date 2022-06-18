@@ -5,7 +5,7 @@
 # Return the negative value of a.
 
 def main(a):
-    a = 6
-    return a-(2*a)
+    a = 2.5
+    return a-a-a
 x = main(6)
 print(x)    
